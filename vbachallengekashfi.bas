@@ -8,7 +8,8 @@ Dim row As Long
 Dim myInputRng As Range
 Dim myOutputRng As Range
 Dim iForLoop As Long
-Dim TotalRow As LongDim OpenPrice As Double
+Dim TotalRow As Long
+Dim OpenPrice As Double
 Dim ClosedPrice As Double
 Dim tickerValue As String
     
